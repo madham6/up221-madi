@@ -1,5 +1,7 @@
 # up221-madi
 
+##My repo name is: up221-madi
+
 Hi, my name is Madi Hamilton. I'm a first-year MURP concentrating in Transportation Policy and Planning, but I'm also really interested in food deserts and the concept of indigeneity among Hawaiians today (so counter mapping is also a new interest).
 
 I'm hoping to really hone my python and GIS skills this quarter. In addition to helping me produce stronger GIS dashboards and datasets, I'm hoping I can apply these skills to research down the line.
